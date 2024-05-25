@@ -163,3 +163,7 @@ cython_debug/
 *.parquet
 *.py.swo
 *.py.swp
+# pixi environments
+.pixi
+*.egg-info
+

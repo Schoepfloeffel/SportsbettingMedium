@@ -1,0 +1,17 @@
+name: SportsbettingMedium
+channels:
+  - defaults
+dependencies:
+  - loguru==0.5.3
+  - ipykernel==6.25.0
+  - ipympl==0.9.3
+  - matplotlib-base=3.7.2
+  - numba=0.59.1
+  - numpy=1.23.1
+  - pandas=2.0.3
+  - plotly=5.9.0
+  - pyarrow==11.0.0
+  - python=3.10.12
+  - seaborn=0.12.2
+  - tabulate==0.8.10
+
